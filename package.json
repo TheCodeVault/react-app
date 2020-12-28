@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this is a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan-tahir/react-app.git"
+  },
+  "author": "Hassan Tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassan-tahir/react-app/issues"
+  },
+  "homepage": "https://github.com/hassan-tahir/react-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
