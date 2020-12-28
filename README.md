@@ -1,2 +1,2 @@
-# React App
+# React Application
 This is an E-commerce store
