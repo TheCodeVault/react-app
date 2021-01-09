@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
+// this always return cross Javascript code
+
 function Greeting(){
   return <h4>this is hassan and this is my react component</h4>;
 }
