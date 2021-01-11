@@ -1,2 +1,2 @@
 # react-app
-React App by Hassan Tahir (final product will be public soon)
+React Application Shop Enviroment by Hassan Tahir (final product will be public soon)
